@@ -275,7 +275,7 @@ Resources:
 
 Outputs:
   DynamoDBTableName:
-    Description: "Name of the DynamoDB Table"
+    Description: "Name of the DynamoDB Table 2"
     Value: !Ref RoomsTable
   ApplicationURL:
     Description: "CloudFront Distribution URL"
